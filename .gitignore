@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.env
+.env.local
+npm-debug.log*
+.DS_Store
+.docx-review
+dev-server*.log
+*.tsbuildinfo
